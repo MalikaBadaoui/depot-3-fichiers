@@ -1,0 +1,11 @@
+  591  grep Toulouse java.csv > toulouse.csv
+  592  cat toulouse.csv 
+  593  grep Biarritz java.csv > biarritz.csv
+  594  cat biarritz.csv 
+  595  cat toulouse.csv biarritz.csv > javasript_biarritz_toulouse.csv
+  596  cat javasript_biarritz_toulouse.csv 
+  597  history
+  598  hitory tail
+  599  history tail
+  600  history | tail
+
